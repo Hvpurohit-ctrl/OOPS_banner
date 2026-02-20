@@ -1,14 +1,12 @@
-//This is Main Branch
-
 /*
 This is Main Branch
-
 @version 1.0
 @author Harsh
+*/
 
+public class OOPmain {
 
-class OOPmain{
-	public static main(String args[]){
-		System.out.println("This is Main Branch");
-	}
+    public static void main(String[] args) {
+        System.out.println("This is OOP Main Class");
+    }
 }
